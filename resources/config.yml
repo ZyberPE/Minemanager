@@ -1,0 +1,27 @@
+mines:
+
+  a:
+    world: "world"
+    x: 100
+    y: 64
+    z: 100
+    success-message: "§aTeleported to Mine A!"
+    no-permission-message: "§cYou do not have permission to access Mine A!"
+
+  b:
+    world: "world"
+    x: 110
+    y: 64
+    z: 100
+    success-message: "§aTeleported to Mine B!"
+    no-permission-message: "§cYou do not have permission to access Mine B!"
+
+  # Copy same format for C-Z
+
+  vip:
+    world: "world"
+    x: 200
+    y: 70
+    z: 200
+    success-message: "§6Welcome to the VIP Mine!"
+    no-permission-message: "§cYou must be VIP to access this mine!"
