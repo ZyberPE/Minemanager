@@ -1,0 +1,72 @@
+name: MineManager
+main: MineManager\Main
+version: 1.0.0
+api: 5.0.0
+author: ApexPELegitz
+description: A-Z Mine Teleport Manager
+
+commands:
+  mine:
+    description: Teleport to a mine
+    usage: "/mine (letter A-Z) or /mine vip"
+    permission: mine.use
+
+permissions:
+  mine.use:
+    default: true
+
+  mine.a:
+    default: true
+  mine.b:
+    default: false
+  mine.c:
+    default: false
+  mine.d:
+    default: false
+  mine.e:
+    default: false
+  mine.f:
+    default: false
+  mine.g:
+    default: false
+  mine.h:
+    default: false
+  mine.i:
+    default: false
+  mine.j:
+    default: false
+  mine.k:
+    default: false
+  mine.l:
+    default: false
+  mine.m:
+    default: false
+  mine.n:
+    default: false
+  mine.o:
+    default: false
+  mine.p:
+    default: false
+  mine.q:
+    default: false
+  mine.r:
+    default: false
+  mine.s:
+    default: false
+  mine.t:
+    default: false
+  mine.u:
+    default: false
+  mine.v:
+    default: false
+  mine.w:
+    default: false
+  mine.x:
+    default: false
+  mine.y:
+    default: false
+  mine.z:
+    default: false
+
+  mine.vip:
+    default: false
